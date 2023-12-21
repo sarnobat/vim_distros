@@ -9,7 +9,7 @@
 |lunarvim | more changes than I want (e.g. minibuffer) |  |
 
 ### 2023-11 Conclusion
-Sadly, it's just not possible to get everything configured to completely replace a Java IDE. Maybe 10 years from now, but not yet.
+Sadly, it's just not possible to get everything configured to completely replace a Java IDE. Maybe 10 years from now it will be ready for prime time (like Applescript's Javascript replacement), but not yet.
 
 I've taken the out-of-the-box correctness of other IDEs for granted until now.
 
