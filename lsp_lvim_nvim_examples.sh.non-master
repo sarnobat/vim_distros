@@ -1,0 +1,48 @@
+#!/bin/sh
+
+#----------------------------------------------------------------------------
+# DESCRIPTION		
+# DATE				[:VIM_EVAL:]strftime('%Y-%m-%d')[:END_EVAL:]
+# AUTHOR			ss401533@gmail.com                                           
+#----------------------------------------------------------------------------
+# template found at ~/.vim/sh_header.temp
+
+cat <<EOF | batcat --plain --paging=never --language sh --theme TwoDark
+
+Lunarvim
+=========
+I got this working on Mac but can't get it working from scratch
+
+Can't get this part working
+DYLD_LIBRARY_PATH=/Volumes/numerous/2022/usr/local/homebrew/Cellar/gettext/0.22.3/lib/  LV_BRANCH='release-1.3/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh)
+
+~/.local/bin/lvim
+lvim /Volumes/git/github/fuse-java/proj/src/main/java/sridhar/FuseYurl.java
+
+
+:TSInstall java
+
+Neovim
+======
+nvim precompiled is available on github
+
+/Volumes/Apps/nvim-macos/bin/nvim /Users/sarnobat/github/java_aotc_helloworld/src/main/java/oracle/HelloWorld.java
+
+
+jdtls process
+=============
+After using kickstart.nvim, add
+
+	-- ~/.config/nvim/init.lua
+	require'lspconfig'.jdtls.setup{}
+
+	# .zshrc
+	PATH=/Volumes/trash/trash/lsp/jdt/bin/:${PATH}
+
+	# everything should regenerate
+	rm ~/.local
+
+You should see this:
+
+	-Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dosgi.checkConfiguration=true -Dosgi.sharedConfiguration.area=/Users/sarnobat/.local/share/nvim/mason/packages/jdtls/config_mac -Dosgi.sharedConfiguration.area.readOnly=true -Dosgi.configuration.cascaded=true -Xms1G --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -jar /Users/sarnobat/.local/share/nvim/mason/packages/jdtls/plugins/org.eclipse.equinox.launcher_1.6.600.v20231012-1237.jar -data /Users/sarnobat/.cache/jdtls/workspace -configuration /Users/sarnobat/.cache/jdtls/config
+EOF
