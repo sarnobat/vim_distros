@@ -1,0 +1,73 @@
+[START][2023-12-08 21:43:34] LSP logging initiated
+[ERROR][2023-12-08 21:43:34] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	"WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector\n"
+[ERROR][2023-12-08 21:43:34] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+[ERROR][2023-12-08 21:43:35] ...lsp/handlers.lua:535	"Dec 8, 2023, 9:43:35 PM Empty bundle location"
+[ERROR][2023-12-08 21:43:35] ...lsp/handlers.lua:535	"Dec 8, 2023, 9:43:35 PM Empty bundle location"
+[WARN][2023-12-08 21:43:36] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 21:43:36] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 21:43:38] ...lsp/handlers.lua:137	"The language server jdtls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-12-08 21:47:53] LSP logging initiated
+[ERROR][2023-12-08 21:47:53] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	"WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign\n"
+[ERROR][2023-12-08 21:47:54] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+[ERROR][2023-12-08 21:47:54] ...lsp/handlers.lua:535	"Dec 8, 2023, 9:47:54 PM Empty bundle location"
+[ERROR][2023-12-08 21:47:54] ...lsp/handlers.lua:535	"Dec 8, 2023, 9:47:54 PM Empty bundle location"
+[WARN][2023-12-08 21:47:55] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 21:47:55] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 21:47:56] ...lsp/handlers.lua:137	"The language server jdtls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-12-08 21:50:09] LSP logging initiated
+[ERROR][2023-12-08 21:50:09] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	"WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector\n"
+[ERROR][2023-12-08 21:50:10] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+[ERROR][2023-12-08 21:50:11] ...lsp/handlers.lua:535	"Dec 8, 2023, 9:50:11 PM Empty bundle location"
+[ERROR][2023-12-08 21:50:11] ...lsp/handlers.lua:535	"Dec 8, 2023, 9:50:11 PM Empty bundle location"
+[WARN][2023-12-08 21:50:15] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 21:50:15] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 21:50:15] ...lsp/handlers.lua:137	"The language server jdtls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-12-08 22:27:36] LSP logging initiated
+[ERROR][2023-12-08 22:27:36] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	"WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector\n"
+[ERROR][2023-12-08 22:27:37] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+[ERROR][2023-12-08 22:27:38] ...lsp/handlers.lua:535	"Dec 8, 2023, 10:27:38 PM Empty bundle location"
+[ERROR][2023-12-08 22:27:38] ...lsp/handlers.lua:535	"Dec 8, 2023, 10:27:38 PM Empty bundle location"
+[WARN][2023-12-08 22:27:39] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 22:27:39] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 22:27:40] ...lsp/handlers.lua:137	"The language server jdtls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-12-08 22:39:41] LSP logging initiated
+[ERROR][2023-12-08 22:39:41] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	"WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector\n"
+[ERROR][2023-12-08 22:39:41] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+[ERROR][2023-12-08 22:39:44] ...lsp/handlers.lua:535	"Dec 8, 2023, 10:39:42 PM Empty bundle location"
+[ERROR][2023-12-08 22:39:44] ...lsp/handlers.lua:535	"Dec 8, 2023, 10:39:42 PM Empty bundle location"
+[WARN][2023-12-08 22:39:44] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 22:39:44] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 22:39:44] ...lsp/handlers.lua:137	"The language server jdtls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-12-08 22:41:30] LSP logging initiated
+[ERROR][2023-12-08 22:41:30] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	"WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign\n"
+[ERROR][2023-12-08 22:41:31] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+[ERROR][2023-12-08 22:41:32] ...lsp/handlers.lua:535	"Dec 8, 2023, 10:41:32 PM Empty bundle location"
+[ERROR][2023-12-08 22:41:32] ...lsp/handlers.lua:535	"Dec 8, 2023, 10:41:32 PM Empty bundle location"
+[WARN][2023-12-08 22:41:33] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 22:41:33] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 22:41:34] ...lsp/handlers.lua:137	"The language server jdtls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-12-08 22:42:44] LSP logging initiated
+[ERROR][2023-12-08 22:42:44] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	"WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector\n"
+[ERROR][2023-12-08 22:42:45] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+[ERROR][2023-12-08 22:42:57] ...lsp/handlers.lua:535	"Dec 8, 2023, 10:42:46 PM Empty bundle location"
+[ERROR][2023-12-08 22:42:57] ...lsp/handlers.lua:535	"Dec 8, 2023, 10:42:46 PM Empty bundle location"
+[WARN][2023-12-08 22:42:57] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 22:42:57] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 22:42:57] ...lsp/handlers.lua:137	"The language server jdtls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-12-08 22:43:35] LSP logging initiated
+[ERROR][2023-12-08 22:43:35] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	"WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector\n"
+[ERROR][2023-12-08 22:43:36] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+[ERROR][2023-12-08 22:43:37] ...lsp/handlers.lua:535	"Dec 8, 2023, 10:43:37 PM Empty bundle location"
+[ERROR][2023-12-08 22:43:37] ...lsp/handlers.lua:535	"Dec 8, 2023, 10:43:37 PM Empty bundle location"
+[WARN][2023-12-08 22:43:38] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 22:43:38] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 22:43:39] ...lsp/handlers.lua:137	"The language server jdtls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-12-08 22:46:17] LSP logging initiated
+[ERROR][2023-12-08 22:46:17] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	"WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign\n"
+[ERROR][2023-12-08 22:46:18] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\n'
+[ERROR][2023-12-08 22:46:18] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	"SLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n"
+[ERROR][2023-12-08 22:46:18] ...lsp/handlers.lua:535	"Dec 8, 2023, 10:46:18 PM Empty bundle location"
+[ERROR][2023-12-08 22:46:19] ...lsp/handlers.lua:535	"Dec 8, 2023, 10:46:19 PM Empty bundle location"
+[WARN][2023-12-08 22:46:20] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 22:46:20] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/inlayHint/refresh"
+[WARN][2023-12-08 22:46:21] ...lsp/handlers.lua:137	"The language server jdtls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"

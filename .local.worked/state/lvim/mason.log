@@ -1,0 +1,20 @@
+[INFO  Mon Dec  4 22:54:56 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=jdtls) {}
+[INFO  Mon Dec  4 22:55:14 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=jdtls)
+[INFO  Mon Dec  4 23:15:56 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Mon Dec  4 23:16:10 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=json-lsp)
+[INFO  Mon Dec  4 23:29:40 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[ERROR Mon Dec  4 23:29:48 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=lua-language-server) error="Installation was aborted."
+[INFO  Mon Dec  4 23:29:49 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Mon Dec  4 23:30:02 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Wed Dec  6 17:55:09 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=google-java-format) {}
+[INFO  Wed Dec  6 17:55:10 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=google-java-format)
+[ERROR Wed Dec  6 19:08:31 2023] ...ite/pack/lazy/opt/mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"nvim-jdtls\"".
+[INFO  Wed Dec  6 19:14:06 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-debug-adapter) {}
+[INFO  Wed Dec  6 19:14:08 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=java-debug-adapter)
+[INFO  Wed Dec  6 19:14:19 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-test) {}
+[INFO  Wed Dec  6 19:14:21 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=java-test)
+[INFO  Wed Dec  6 19:19:19 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=google-java-format) {}
+[INFO  Wed Dec  6 19:19:22 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=google-java-format)
+[ERROR Wed Dec  6 19:43:07 2023] ...ite/pack/lazy/opt/mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"nvim-jdtls\"".
+[INFO  Wed Dec  6 19:43:16 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=jdtls) {}
+[INFO  Wed Dec  6 19:43:31 2023] ...ck/lazy/opt/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=jdtls)

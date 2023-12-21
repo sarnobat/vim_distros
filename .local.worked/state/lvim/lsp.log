@@ -1,0 +1,97 @@
+[START][2023-12-04 22:55:15] LSP logging initiated
+[ERROR][2023-12-04 22:55:15] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'Traceback (most recent call last):\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls", line 17, in <module>\n'
+[ERROR][2023-12-04 22:55:15] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'    jdtls.main(sys.argv[1:])\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 82, in main\n'
+[ERROR][2023-12-04 22:55:15] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'    java_executable = get_java_executable(known_args.validate_java_version)\n                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 40, in get_java_executable\n'
+[ERROR][2023-12-04 22:55:15] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'    raise Exception("jdtls requires at least Java 17")\n'
+[ERROR][2023-12-04 22:55:15] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	"Exception: jdtls requires at least Java 17\n"
+[START][2023-12-04 23:12:47] LSP logging initiated
+[ERROR][2023-12-04 23:12:47] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'Traceback (most recent call last):\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls", line 17, in <module>\n'
+[ERROR][2023-12-04 23:12:47] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'    jdtls.main(sys.argv[1:])\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 82, in main\n    java_executable = get_java_executable(known_args.validate_java_version)\n                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 40, in get_java_executable\n    raise Exception("jdtls requires at least Java 17")\nException: jdtls requires at least Java 17\n'
+[START][2023-12-04 23:20:00] LSP logging initiated
+[ERROR][2023-12-04 23:20:00] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'Traceback (most recent call last):\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls", line 17, in <module>\n'
+[ERROR][2023-12-04 23:20:00] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'    jdtls.main(sys.argv[1:])\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 82, in main\n    java_executable = get_java_executable(known_args.validate_java_version)\n                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 40, in get_java_executable\n    raise Exception("jdtls requires at least Java 17")\nException: jdtls requires at least Java 17\n'
+[START][2023-12-04 23:23:10] LSP logging initiated
+[ERROR][2023-12-04 23:23:10] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'Traceback (most recent call last):\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls", line 17, in <module>\n    jdtls.main(sys.argv[1:])\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 82, in main\n    java_executable = get_java_executable(known_args.validate_java_version)\n                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 40, in get_java_executable\n    raise Exception("jdtls requires at least Java 17")\nException: jdtls requires at least Java 17\n'
+[START][2023-12-06 17:12:40] LSP logging initiated
+[ERROR][2023-12-06 17:12:40] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'Traceback (most recent call last):\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls", line 17, in <module>\n'
+[ERROR][2023-12-06 17:12:40] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'    jdtls.main(sys.argv[1:])\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 82, in main\n    java_executable = get_java_executable(known_args.validate_java_version)\n                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 40, in get_java_executable\n'
+[ERROR][2023-12-06 17:12:40] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'    raise Exception("jdtls requires at least Java 17")\n'
+[ERROR][2023-12-06 17:12:40] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	"Exception: jdtls requires at least Java 17\n"
+[START][2023-12-06 17:12:47] LSP logging initiated
+[ERROR][2023-12-06 17:12:47] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'Traceback (most recent call last):\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls", line 17, in <module>\n'
+[ERROR][2023-12-06 17:12:47] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'    jdtls.main(sys.argv[1:])\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 82, in main\n    java_executable = get_java_executable(known_args.validate_java_version)\n                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 40, in get_java_executable\n    raise Exception("jdtls requires at least Java 17")\nException: jdtls requires at least Java 17\n'
+[START][2023-12-06 17:15:58] LSP logging initiated
+[ERROR][2023-12-06 17:15:58] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'Traceback (most recent call last):\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls", line 17, in <module>\n'
+[ERROR][2023-12-06 17:15:58] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'    jdtls.main(sys.argv[1:])\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 82, in main\n    java_executable = get_java_executable(known_args.validate_java_version)\n                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 40, in get_java_executable\n    raise Exception("jdtls requires at least Java 17")\nException: jdtls requires at least Java 17\n'
+[START][2023-12-06 17:21:00] LSP logging initiated
+[ERROR][2023-12-06 17:21:00] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'Traceback (most recent call last):\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls", line 17, in <module>\n'
+[ERROR][2023-12-06 17:21:00] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'    jdtls.main(sys.argv[1:])\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 82, in main\n'
+[ERROR][2023-12-06 17:21:00] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'    java_executable = get_java_executable(known_args.validate_java_version)\n                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 40, in get_java_executable\n'
+[ERROR][2023-12-06 17:21:00] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'    raise Exception("jdtls requires at least Java 17")\nException: jdtls requires at least Java 17\n'
+[START][2023-12-06 17:48:35] LSP logging initiated
+[ERROR][2023-12-06 17:48:35] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error: Unable to access jarfile \n"
+[START][2023-12-06 17:51:03] LSP logging initiated
+[ERROR][2023-12-06 17:51:03] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error: Unable to access jarfile \n"
+[WARN][2023-12-06 17:53:05] .../lua/vim/lsp.lua:101	"method textDocument/codeLens is not supported by any of the servers registered for the current buffer"
+[START][2023-12-06 17:58:10] LSP logging initiated
+[ERROR][2023-12-06 17:58:10] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error: Unable to access jarfile \n"
+[ERROR][2023-12-06 18:03:17] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error: Unable to access jarfile \n"
+[START][2023-12-06 18:08:14] LSP logging initiated
+[ERROR][2023-12-06 18:08:14] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error: Unable to access jarfile \n"
+[START][2023-12-06 18:10:14] LSP logging initiated
+[ERROR][2023-12-06 18:10:14] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error: Unable to access jarfile \n"
+[WARN][2023-12-06 18:10:24] .../lua/vim/lsp.lua:101	"method textDocument/codeLens is not supported by any of the servers registered for the current buffer"
+[START][2023-12-06 18:12:19] LSP logging initiated
+[ERROR][2023-12-06 18:12:19] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error: Unable to access jarfile \n"
+[WARN][2023-12-06 18:13:20] .../lua/vim/lsp.lua:101	"method textDocument/references is not supported by any of the servers registered for the current buffer"
+[WARN][2023-12-06 18:13:56] .../lua/vim/lsp.lua:101	"method textDocument/definition is not supported by any of the servers registered for the current buffer"
+[WARN][2023-12-06 18:14:00] .../lua/vim/lsp.lua:101	"method textDocument/definition is not supported by any of the servers registered for the current buffer"
+[ERROR][2023-12-06 18:14:06] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error: Unable to access jarfile \n"
+[WARN][2023-12-06 18:14:13] .../lua/vim/lsp.lua:101	"method textDocument/declaration is not supported by any of the servers registered for the current buffer"
+[START][2023-12-06 18:15:30] LSP logging initiated
+[ERROR][2023-12-06 18:15:30] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error: Unable to access jarfile \n"
+[START][2023-12-06 18:17:45] LSP logging initiated
+[ERROR][2023-12-06 18:17:45] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error: Unable to access jarfile \n"
+[WARN][2023-12-06 18:17:58] .../lua/vim/lsp.lua:101	"method textDocument/definition is not supported by any of the servers registered for the current buffer"
+[WARN][2023-12-06 18:18:04] .../lua/vim/lsp.lua:101	"method textDocument/definition is not supported by any of the servers registered for the current buffer"
+[WARN][2023-12-06 18:18:15] .../lua/vim/lsp.lua:101	"method textDocument/signatureHelp is not supported by any of the servers registered for the current buffer"
+[WARN][2023-12-06 18:21:03] .../lua/vim/lsp.lua:101	"method textDocument/hover is not supported by any of the servers registered for the current buffer"
+[WARN][2023-12-06 18:21:03] .../lua/vim/lsp.lua:101	"method textDocument/hover is not supported by any of the servers registered for the current buffer"
+[WARN][2023-12-06 18:21:04] .../lua/vim/lsp.lua:101	"method textDocument/hover is not supported by any of the servers registered for the current buffer"
+[WARN][2023-12-06 18:21:05] .../lua/vim/lsp.lua:101	"method textDocument/hover is not supported by any of the servers registered for the current buffer"
+[WARN][2023-12-06 18:21:05] .../lua/vim/lsp.lua:101	"method textDocument/hover is not supported by any of the servers registered for the current buffer"
+[WARN][2023-12-06 18:21:13] .../lua/vim/lsp.lua:101	"method textDocument/codeLens is not supported by any of the servers registered for the current buffer"
+[START][2023-12-06 18:36:39] LSP logging initiated
+[ERROR][2023-12-06 18:36:39] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error opening zip file or JAR manifest missing : /Users/sarnobat/.local/share/*vim/mason/packages/jdtls/lombok.jar\n"
+[START][2023-12-06 18:43:47] LSP logging initiated
+[ERROR][2023-12-06 18:43:47] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error opening zip file or JAR manifest missing : /Users/sarnobat/.local/share/*vim/mason/packages/jdtls/lombok.jar\n"
+[WARN][2023-12-06 19:02:41] .../lua/vim/lsp.lua:101	"method textDocument/codeLens is not supported by any of the servers registered for the current buffer"
+[START][2023-12-06 19:04:03] LSP logging initiated
+[ERROR][2023-12-06 19:04:03] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error opening zip file or JAR manifest missing : /Users/sarnobat/.local/share/*vim/mason/packages/jdtls/lombok.jar\n"
+[START][2023-12-06 19:10:32] LSP logging initiated
+[ERROR][2023-12-06 19:10:32] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error opening zip file or JAR manifest missing : /Users/sarnobat/.local/share/*vim/mason/packages/jdtls/lombok.jar\n"
+[ERROR][2023-12-06 19:10:32] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'Traceback (most recent call last):\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls", line 17, in <module>\n'
+[ERROR][2023-12-06 19:10:32] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	"    jdtls.main(sys.argv[1:])\n"
+[ERROR][2023-12-06 19:10:32] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 82, in main\n'
+[ERROR][2023-12-06 19:10:32] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'    java_executable = get_java_executable(known_args.validate_java_version)\n                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/Users/sarnobat/.local/share/lvim/mason/packages/jdtls/bin/jdtls.py", line 40, in get_java_executable\n'
+[ERROR][2023-12-06 19:10:32] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.local/share/lvim/mason/bin/jdtls"	"stderr"	'    raise Exception("jdtls requires at least Java 17")\nException: jdtls requires at least Java 17\n'
+[START][2023-12-06 19:17:05] LSP logging initiated
+[ERROR][2023-12-06 19:17:05] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error opening zip file or JAR manifest missing : /Users/sarnobat/.local/share/*vim/mason/packages/jdtls/lombok.jar\n"
+[START][2023-12-06 19:21:05] LSP logging initiated
+[ERROR][2023-12-06 19:21:05] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error opening zip file or JAR manifest missing : /Users/sarnobat/.local/share/*vim/mason/packages/jdtls/lombok.jar\n"
+[START][2023-12-06 19:21:32] LSP logging initiated
+[ERROR][2023-12-06 19:21:32] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error opening zip file or JAR manifest missing : /Users/sarnobat/.local/share/*vim/mason/packages/jdtls/lombok.jar\n"
+[START][2023-12-06 19:22:01] LSP logging initiated
+[ERROR][2023-12-06 19:22:01] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error opening zip file or JAR manifest missing : /Users/sarnobat/.local/share/*vim/mason/packages/jdtls/lombok.jar\n"
+[START][2023-12-06 19:22:09] LSP logging initiated
+[ERROR][2023-12-06 19:22:09] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error opening zip file or JAR manifest missing : /Users/sarnobat/.local/share/*vim/mason/packages/jdtls/lombok.jar\n"
+[START][2023-12-06 19:24:38] LSP logging initiated
+[ERROR][2023-12-06 19:24:38] .../vim/lsp/rpc.lua:734	"rpc"	"java"	"stderr"	"Error opening zip file or JAR manifest missing : /Users/sarnobat/.local/share/*vim/mason/packages/jdtls/lombok.jar\n"
+[START][2023-12-06 19:53:52] LSP logging initiated
+[ERROR][2023-12-06 19:53:52] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	"WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign\n"
+[START][2023-12-06 19:55:13] LSP logging initiated
+[ERROR][2023-12-06 19:55:13] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	"WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector\n"
+[START][2023-12-06 19:58:52] LSP logging initiated
+[ERROR][2023-12-06 19:58:52] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	"WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector\n"
+[START][2023-12-06 20:06:08] LSP logging initiated
+[ERROR][2023-12-06 20:06:08] .../vim/lsp/rpc.lua:734	"rpc"	"/Users/sarnobat/.sdkman/candidates/java/current/bin/java"	"stderr"	"WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector\n"

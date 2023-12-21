@@ -1,0 +1,238 @@
+# Schemas
+
+- [x] als
+- [ ] anakin_language_server
+- [ ] angularls
+- [ ] ansiblels
+- [ ] antlersls
+- [ ] apex_ls
+- [ ] arduino_language_server
+- [ ] asm_lsp
+- [x] astro
+- [ ] awk_ls
+- [ ] azure_pipelines_ls
+- [x] bashls
+- [ ] beancount
+- [ ] bicep
+- [ ] blueprint_ls
+- [ ] bright_script
+- [ ] bsl_ls
+- [ ] buck2
+- [ ] buddy_ls
+- [ ] bufls
+- [ ] cadence
+- [ ] cairo_ls
+- [ ] ccls
+- [x] clangd
+- [ ] clarity_lsp
+- [ ] clojure_lsp
+- [ ] cmake
+- [ ] cobol_ls
+- [x] codeqlls
+- [ ] coffeesense
+- [ ] crystalline
+- [ ] csharp_ls
+- [x] cssls
+- [ ] cssmodules_ls
+- [ ] cucumber_language_server
+- [ ] custom_elements_ls
+- [ ] dafny
+- [ ] dagger
+- [x] dartls
+- [x] denols
+- [ ] dhall_lsp_server
+- [ ] diagnosticls
+- [ ] digestif
+- [ ] docker_compose_language_service
+- [ ] dockerls
+- [ ] dolmenls
+- [ ] dotls
+- [ ] drools_lsp
+- [ ] ds_pinyin_lsp
+- [ ] ecsact
+- [ ] efm
+- [x] elixirls
+- [x] elmls
+- [ ] ember
+- [ ] emmet_ls
+- [ ] erg_language_server
+- [ ] erlangls
+- [ ] esbonio
+- [x] eslint
+- [ ] fennel_language_server
+- [ ] fennel_ls
+- [x] flow
+- [ ] flux_lsp
+- [ ] foam_ls
+- [x] fortls
+- [x] fsautocomplete
+- [ ] fsharp_language_server
+- [ ] fstar
+- [ ] futhark_lsp
+- [ ] gdscript
+- [ ] ghcide
+- [ ] ghdl_ls
+- [ ] gleam
+- [ ] glslls
+- [ ] golangci_lint_ls
+- [x] gopls
+- [ ] gradle_ls
+- [x] grammarly
+- [ ] graphql
+- [ ] groovyls
+- [x] haxe_language_server
+- [ ] hdl_checker
+- [ ] helm_ls
+- [x] hhvm
+- [x] hie
+- [ ] hls
+- [ ] hoon_ls
+- [x] html
+- [ ] idris2_lsp
+- [x] intelephense
+- [x] java_language_server
+- [x] jdtls
+- [ ] jedi_language_server
+- [ ] jqls
+- [x] jsonls
+- [ ] jsonnet_ls
+- [x] julials
+- [x] kotlin_language_server
+- [ ] lean3ls
+- [x] leanls
+- [ ] lelwel_ls
+- [ ] lemminx
+- [x] ltex
+- [x] lua_ls
+- [x] luau_lsp
+- [ ] m68k
+- [ ] marksman
+- [ ] matlab_ls
+- [ ] metals
+- [ ] millet
+- [ ] mint
+- [ ] mlir_lsp_server
+- [ ] mlir_pdll_lsp_server
+- [ ] mm0_ls
+- [ ] move_analyzer
+- [ ] nelua_lsp
+- [ ] neocmake
+- [x] nickel_ls
+- [ ] nil_ls
+- [ ] nim_langserver
+- [x] nimls
+- [ ] nixd
+- [ ] nomad_lsp
+- [ ] ntt
+- [ ] nxls
+- [ ] ocamlls
+- [ ] ocamllsp
+- [ ] ols
+- [x] omnisharp
+- [ ] opencl_ls
+- [ ] openedge_ls
+- [ ] openscad_ls
+- [ ] openscad_lsp
+- [ ] pact_ls
+- [ ] pasls
+- [x] perlls
+- [x] perlnavigator
+- [x] perlpls
+- [ ] pest_ls
+- [ ] phan
+- [ ] phpactor
+- [ ] please
+- [x] powershell_es
+- [ ] prismals
+- [ ] prolog_ls
+- [ ] prosemd_lsp
+- [x] psalm
+- [x] puppet
+- [x] purescriptls
+- [x] pylsp
+- [ ] pylyzer
+- [ ] pyre
+- [x] pyright
+- [ ] qml_lsp
+- [ ] qmlls
+- [ ] quick_lint_js
+- [x] r_language_server
+- [ ] racket_langserver
+- [ ] raku_navigator
+- [ ] reason_ls
+- [ ] relay_lsp
+- [ ] remark_ls
+- [x] rescriptls
+- [x] rls
+- [ ] rnix
+- [ ] robotframework_ls
+- [x] rome
+- [ ] ruby_ls
+- [ ] ruff_lsp
+- [x] rust_analyzer
+- [ ] salt_ls
+- [ ] scheme_langserver
+- [ ] scry
+- [ ] serve_d
+- [ ] sixtyfps
+- [ ] slint_lsp
+- [ ] smarty_ls
+- [ ] smithy_ls
+- [ ] solang
+- [x] solargraph
+- [ ] solc
+- [ ] solidity
+- [x] solidity_ls
+- [ ] solidity_ls_nomicfoundation
+- [x] sorbet
+- [x] sourcekit
+- [ ] sourcery
+- [x] spectral
+- [ ] sqlls
+- [ ] sqls
+- [ ] standardrb
+- [ ] starlark_rust
+- [ ] statix
+- [ ] steep
+- [x] stylelint_lsp
+- [x] svelte
+- [x] svlangserver
+- [ ] svls
+- [ ] swift_mesonls
+- [ ] syntax_tree
+- [x] tailwindcss
+- [ ] taplo
+- [ ] tblgen_lsp_server
+- [ ] teal_ls
+- [ ] terraform_lsp
+- [x] terraformls
+- [ ] texlab
+- [ ] textlsp
+- [ ] tflint
+- [ ] theme_check
+- [ ] tilt_ls
+- [x] tsserver
+- [ ] turtle_ls
+- [ ] typeprof
+- [ ] typst_lsp
+- [ ] unison
+- [ ] unocss
+- [ ] uvls
+- [ ] vala_ls
+- [ ] vale_ls
+- [ ] vdmj
+- [ ] verible
+- [ ] veridian
+- [ ] veryl_ls
+- [ ] vhdl_ls
+- [ ] vimls
+- [ ] visualforce_ls
+- [ ] vls
+- [x] volar
+- [ ] vtsls
+- [x] vuels
+- [ ] wgsl_analyzer
+- [x] yamlls
+- [ ] yls
+- [ ] zk
+- [x] zls

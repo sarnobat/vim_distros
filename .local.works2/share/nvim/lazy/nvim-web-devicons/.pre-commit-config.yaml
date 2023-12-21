@@ -1,0 +1,22 @@
+repos:
+  - repo: https://github.com/johnnymorganz/stylua
+    rev: v0.19.1
+    hooks:
+      - id: stylua-github
+
+  - repo: local
+    hooks:
+      - id: luacheck
+        name: Luacheck
+        description: Lints Lua files using Luacheck.
+        entry: make lint
+        language: system
+
+  - repo: local
+    hooks:
+      - id: colors
+        name: colors
+        description: Ensures Light Color Scheme version has been generated.
+        entry: make colors
+        language: system
+
