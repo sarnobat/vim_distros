@@ -17,7 +17,11 @@ By all means give it another try when you have the motivation to, but you're goi
 
 
 ### Config
+I'm not sure the commented out ones were ever needed.
 ```
+# export VIMCONFIG=~/.config/nvim
+# export VIMDATA=~/.local/share/nvim
+
 # PATH=/Users/sarnobat/.local/bin/:${PATH}
 # PATH=/Volumes/Apps/nvim-macos/bin/:${PATH}
 # PATH=${PATH}:${HOME}/Library/Python/3.11/bin
