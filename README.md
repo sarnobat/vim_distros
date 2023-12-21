@@ -3,7 +3,7 @@
 |name | verdict |  |
 |---|---|----|
 |vim |  | Ctrl-N for completion menu.|
-| vim with codeium plugin: https://github.com/Exafunction/codeium.vim?tab=readme-ov-file#-getting-started |  Good based on minimal changes  |
+| vim with codeium plugin| https://github.com/Exafunction/codeium.vim?tab=readme-ov-file#-getting-started |  Good based on minimal changes  |
 |neovim (nvim) | need to add all language behaviour manually |  |
 |lazyvim |  |  |
 |lunarvim | more changes than I want |  |
