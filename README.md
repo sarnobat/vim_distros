@@ -2,7 +2,7 @@
 
 |name | verdict |  |
 |---|---|----|
-|vim |  | Ctrl-N for completion menu.|
+|vim | learning some vimscript (e.g. autocmd) may be a better initial step in the customization funnel  | Ctrl-N for completion menu.|
 | vim with codeium plugin | Good based on minimal changes | https://github.com/Exafunction/codeium.vim?tab=readme-ov-file#-getting-started |  
 |neovim (nvim) | need to add all language behaviour manually |  |
 |lazyvim |  |  |
