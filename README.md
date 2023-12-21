@@ -2,7 +2,7 @@
 
 |name | verdict |  |
 |---|---|----|
-|vim |  | Ctrl-N for completion menu . Alternatively, there's codeium which seems to work with regular vim even though I thought it was only for nvim|
+|vim |  | Ctrl-N for completion menu . Alternatively, there's codeium which seems to work with regular vim (on Ubuntu) even though I thought it was only for nvim|
 |neovim (nvim) | need to add all language behaviour manually |  |
 |lazyvim |  |  |
 |lunarvim | more changes than I want |  |
