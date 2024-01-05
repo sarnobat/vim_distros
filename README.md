@@ -5,7 +5,7 @@
 |vim | learning some vimscript (e.g. autocmd) may be a better initial step in the customization funnel  | Ctrl-N for completion menu.|
 | vim with codeium plugin | Good based on minimal changes | https://github.com/Exafunction/codeium.vim?tab=readme-ov-file#-getting-started |  
 |neovim (nvim) | need to add all language behaviour manually | https://github.com/sarnobat/vim_distros/blob/main/.config.works2/nvim/ftplugin/java.lua.basicworks |
-|lazyvim |  |  |
+|lazyvim |  | single file https://github.com/LazyVim/starter/blob/main/lua/plugins/example.lua |
 |lunarvim | more changes than I want (e.g. minibuffer) |  |
 
 ### 2023-11 Conclusion
